@@ -1,5 +1,5 @@
 /**
-* Author: Tony and Justin
+* Author: Tony and Anthony
 * Date: 2018/08/28
 *
 * A simple hello world program in C for Hack 1 assignment
